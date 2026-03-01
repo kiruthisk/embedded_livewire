@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main() {
+    for(int n=0;n<=8;n++)
+    {
+    if (n==6)
+    {
+        continue;
+    }
+        printf("%d\n",n);
+    }
+    return 0;
+}
