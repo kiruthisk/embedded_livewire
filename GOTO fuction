@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() {
+   printf("Welcome KIRUTHIKA.KP\n");
+   goto livewire;
+   printf("are you continue on embedded course");
+   printf("or skiped");
+   livewire:printf("Yes,I interested");
+   
+    return 0;
+}
